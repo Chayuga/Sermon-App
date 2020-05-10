@@ -14,7 +14,6 @@ dependencies:
   google_maps_flutter: ^0.5.27
   mpesa_flutter_plugin: ^1.0.0
   line_icons: ^0.2.0
-  bubbled_navigation_bar: ^0.0.4
 
 
 
